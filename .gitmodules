@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/yash1699/i-notebook-backend
+[submodule "client"]
+	path = client
+	url = https://github.com/yash1699/i-notebook-frontend
